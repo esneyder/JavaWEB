@@ -6,6 +6,6 @@
 <h3>sistema para el registro y control de personal desarro</h3>
 <h3>Desarrollado en java + mysql</h3>
 <br>
-<img src="softcon.png" alt="Smiley face" height="600" width="1200">
+<img src="softcon.png" width="400" height="900">
 
 </html>
