@@ -1,12 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Softcon | Sistema control personal</title>
-</head>
-<body>
-	<h2>Sistema de registro y control  de personal</h2>
+## Softcon
+<h1>Sistema control personal</h1>
+<p>
+Sistema desarrollado en java + mysql para el registro y control de personal.
+</p>
 
- <img src="softcon.png" alt="Softcon">
-</body>
-</html>
