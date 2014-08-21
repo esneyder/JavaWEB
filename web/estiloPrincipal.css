@@ -1,0 +1,138 @@
+/* 
+    Document   : estiloPrincipal
+    Created on : 6/10/2013, 08:16:54 PM
+    Author     : Esneyder
+    
+ */
+body {
+  padding-bottom: 40px;
+  color: #5a5a5a;
+}
+
+.userInformation{
+  margin: 10px 0;
+  margin-left: 915px!important;
+}
+.userInformation img,.userInformation h6{
+  float: left;
+}
+.userInformation h6{
+  margin:10px 5px 0 10px;
+}
+
+
+
+.navbar-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+}
+
+
+
+ 
+.carousel {
+  margin-bottom: 50px;
+}
+
+.carousel-caption {
+  z-index: 10;
+}
+
+
+.carousel .item {
+  height: 400px;
+  background-color:#bbb;
+}
+.carousel img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 500px;
+}
+
+
+
+ 
+.marketing {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+
+.marketing .col-lg-4 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.marketing h2 {
+  font-weight: normal;
+}
+.marketing .col-lg-4 p {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 30px 0; 
+}
+.featurette {
+  padding-top: 25px; 
+  overflow: hidden; 
+}
+.featurette-image {
+  margin-top: -10px; }
+
+
+.featurette-image.pull-left {
+  margin-right: 15px;
+}
+.featurette-image.pull-right {
+  margin-left: 10px;
+}
+
+
+.featurette-heading {
+  font-size: 28px;
+  font-weight: 100;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 768px) {
+
+ 
+  .marketing {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+ 
+  .navbar-wrapper {
+    margin-top: 20px;
+    margin-bottom: -90px;
+  }
+ 
+  .navbar-wrapper .navbar {
+    border-radius: 4px;
+  }
+
+  
+  .carousel-caption p {
+    margin-bottom: 20px;
+    font-size: 21px;
+    line-height: 1.4;
+  }
+
+}
